@@ -2,7 +2,7 @@
 
 The Conversation Transfers for Flex plugin helps contact center administrators set up transfers of Chats and SMS that use the Conversations API between Agents. 
 
-This plugin is based on [Twilio's chat-sms-transfers-plugin repository](https://github.com/twilio-professional-services/plugin-conversation-transfer) that has been upgraded to be compatible with Flex UI version 2.0, TypeScript and Twilio's new Conversations API.
+This plugin is based on [Twilio's chat-sms-transfers-plugin repository](https://github.com/twilio-professional-services/plugin-chat-sms-transfer) that has been upgraded to be compatible with Flex UI version 2.0, TypeScript and Twilio's new Conversations API.
 
 **As of the writing of this document, Flex does not natively support transferring of non-voice tasks. To track the addition of Chat and SMS transfers as a feature, visit the [Flex Release Notes](https://www.twilio.com/docs/flex/release-notes/flex-ui-release-notes-for-v2xx) page.**
 
