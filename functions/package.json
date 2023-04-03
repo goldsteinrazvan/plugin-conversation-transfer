@@ -1,0 +1,15 @@
+{
+  "name": "plugin-conversation-transfer-functions",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "twilio-run --env"
+  },
+  "devDependencies": {
+    "twilio-run": "^3.5.3"
+  },
+  "dependencies": {
+    "twilio-flex-token-validator": "^1.5.8"
+  }
+}
